@@ -478,7 +478,7 @@
         <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 速度滑冰 女子3000米 1-5</title>
     </programme>
     <programme channel="CCTV5体育" start="20260207235000 +0800" stop="20260207235900 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 速度滑冰 女子3000米6-10</title>
+        <title lang="zh">2026年米兰-科尔蒂纳冬奥会 速度滑冰 女子3000米6-10</title>
     </programme>
     <channel id="CCTV5+体育赛事">
         <display-name lang="zh">CCTV5+体育赛事</display-name>
@@ -538,7 +538,7 @@
         <title lang="zh">录像：2026年米兰-科尔蒂纳冬奥会 高山滑雪男子滑降</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20260207234000 +0800" stop="20260207235900 +0800">
-        <title lang="zh">直播：2026年米兰-科尔蒂纳冬奥会 女子冰球预赛 美国-芬兰</title>
+        <title lang="zh">2026年米兰-科尔蒂纳冬奥会 女子冰球预赛 美国-芬兰</title>
     </programme>
     <channel id="CCTV6电影">
         <display-name lang="zh">CCTV6电影</display-name>
