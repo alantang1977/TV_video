@@ -874,13 +874,13 @@
         <title lang="zh">本集提要-八千里路云和月-第13集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260414193000 +0800" stop="20260414202540 +0800">
-        <title lang="zh">八千里路云和月13/40</title>
+        <title lang="zh">八千里路云和月第13集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260414202540 +0800" stop="20260414203040 +0800">
         <title lang="zh">本集提要-八千里路云和月-第14集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260414203040 +0800" stop="20260414212440 +0800">
-        <title lang="zh">八千里路云和月14/40</title>
+        <title lang="zh">八千里路云和月第14集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260414212440 +0800" stop="20260414212940 +0800">
         <title lang="zh">本集提要-灼灼韶华-第32集</title>
@@ -3843,17 +3843,8 @@
     <programme channel="东方卫视" start="20260414085900 +0800" stop="20260414090000 +0800">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme channel="东方卫视" start="20260414090000 +0800" stop="20260414094800 +0800">
-        <title lang="zh">他从火光中走来(20)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260414094800 +0800" stop="20260414103100 +0800">
-        <title lang="zh">他从火光中走来(21)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260414103100 +0800" stop="20260414111500 +0800">
-        <title lang="zh">他从火光中走来(22)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260414111500 +0800" stop="20260414120000 +0800">
-        <title lang="zh">他从火光中走来(23)</title>
+    <programme channel="东方卫视" start="20260414090000 +0800" stop="20260414120000 +0800">
+        <title lang="zh">他从火光中走来(20-23)</title>
     </programme>
     <programme channel="东方卫视" start="20260414120000 +0800" stop="20260414122600 +0800">
         <title lang="zh">午间30分</title>
@@ -3864,23 +3855,8 @@
     <programme channel="东方卫视" start="20260414123000 +0800" stop="20260414124300 +0800">
         <title lang="zh">ShanghaiEye</title>
     </programme>
-    <programme channel="东方卫视" start="20260414124300 +0800" stop="20260414132500 +0800">
-        <title lang="zh">雁回时(6)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260414132500 +0800" stop="20260414140900 +0800">
-        <title lang="zh">雁回时(7)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260414140900 +0800" stop="20260414145000 +0800">
-        <title lang="zh">雁回时(8)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260414145000 +0800" stop="20260414154000 +0800">
-        <title lang="zh">雁回时(9)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260414154000 +0800" stop="20260414162800 +0800">
-        <title lang="zh">雁回时(10)</title>
-    </programme>
-    <programme channel="东方卫视" start="20260414162800 +0800" stop="20260414170700 +0800">
-        <title lang="zh">雁回时(11)</title>
+    <programme channel="东方卫视" start="20260414124300 +0800" stop="20260414170700 +0800">
+        <title lang="zh">雁回时(6-11)</title>
     </programme>
     <programme channel="东方卫视" start="20260414170700 +0800" stop="20260414173300 +0800">
         <title lang="zh">东方新娱乐</title>
