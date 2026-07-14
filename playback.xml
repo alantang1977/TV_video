@@ -100,13 +100,13 @@
         <title lang="zh">前情提要-种墨园-第26集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260714200200 +0800" stop="20260714205325 +0800">
-        <title lang="zh">种墨园26/34</title>
+        <title lang="zh">种墨园第26集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260714205325 +0800" stop="20260714205550 +0800">
         <title lang="zh">前情提要-种墨园-第27集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260714205550 +0800" stop="20260714214425 +0800">
-        <title lang="zh">种墨园27/34</title>
+        <title lang="zh">种墨园第27集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260714214425 +0800" stop="20260714215125 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
@@ -856,25 +856,25 @@
         <title lang="zh">本集提要-九个弹孔-第13集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260714193000 +0800" stop="20260714202540 +0800">
-        <title lang="zh">九个弹孔13/29</title>
+        <title lang="zh">九个弹孔第13集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260714202540 +0800" stop="20260714203040 +0800">
         <title lang="zh">本集提要-九个弹孔-第14集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260714203040 +0800" stop="20260714212440 +0800">
-        <title lang="zh">九个弹孔14/29</title>
+        <title lang="zh">九个弹孔第14集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260714212440 +0800" stop="20260714212940 +0800">
         <title lang="zh">本集提要-小芳-第3集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260714212940 +0800" stop="20260714221940 +0800">
-        <title lang="zh">小芳3/18</title>
+        <title lang="zh">小芳第3集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260714221940 +0800" stop="20260714222140 +0800">
         <title lang="zh">本集提要-小芳-第4集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260714222140 +0800" stop="20260714231140 +0800">
-        <title lang="zh">小芳4/18</title>
+        <title lang="zh">小芳第4集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20260714231140 +0800" stop="20260714235740 +0800">
         <title lang="zh">岁月有情时第14集</title>
@@ -3555,29 +3555,23 @@
     <programme channel="24小时城市联赛轮播台" start="20260714053700 +0800" stop="20260714082100 +0800">
         <title lang="zh">新疆疆超第7轮全场回放：阿克苏1:1巴州</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260714082100 +0800" stop="20260714101700 +0800">
-        <title lang="zh">贵州村超第10轮全场回放:党相村塔石羊瘪队1:0场坝大河口将军岩队</title>
-    </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260714101700 +0800" stop="20260714123500 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20260714082100 +0800" stop="20260714103900 +0800">
         <title lang="zh">浙江浙BA全场回放：遂昌71:79庆元</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260714123500 +0800" stop="20260714143200 +0800">
-        <title lang="zh">贵州村超第10轮全场回放:腊酉村3:1色边村</title>
+    <programme channel="24小时城市联赛轮播台" start="20260714103900 +0800" stop="20260714123500 +0800">
+        <title lang="zh">贵州村超第10轮全场回放:党相村塔石羊瘪队1:0场坝大河口将军岩队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260714143200 +0800" stop="20260714164100 +0800">
-        <title lang="zh">广东粤超第8轮全场回放：深圳8:1汕头</title>
+    <programme channel="24小时城市联赛轮播台" start="20260714123500 +0800" stop="20260714150600 +0800">
+        <title lang="zh">浙江浙BA全场回放：海盐67:76秀洲</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260714164100 +0800" stop="20260714190100 +0800">
-        <title lang="zh">东北地区东北超第4轮全场回放：长春1:1呼和浩特</title>
+    <programme channel="24小时城市联赛轮播台" start="20260714150600 +0800" stop="20260714184200 +0800">
+        <title lang="zh">四川川超第18轮全场回放：达州川汉子队1:3成都锦城队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260714190100 +0800" stop="20260714211100 +0800">
-        <title lang="zh">内蒙古蒙超第8轮全场回放：巴彦淖尔队2:1赤峰队</title>
+    <programme channel="24小时城市联赛轮播台" start="20260714184200 +0800" stop="20260714213500 +0800">
+        <title lang="zh">东北地区东北超第4轮全场回放：沈阳1:1哈尔滨</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260714211100 +0800" stop="20260714233700 +0800">
-        <title lang="zh">湖北楚超第9轮全场回放：荆门金龙泉0:0鄂州临空</title>
-    </programme>
-    <programme channel="24小时城市联赛轮播台" start="20260714233700 +0800" stop="20260715024300 +0800">
-        <title lang="zh">江西赣超第7轮全场回放：赣州2:0萍乡</title>
+    <programme channel="24小时城市联赛轮播台" start="20260714213500 +0800" stop="20260715000800 +0800">
+        <title lang="zh">山东齐鲁超赛第9轮全场回放：潍坊队0:0淄博齐稷锐思达</title>
     </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
@@ -4416,7 +4410,7 @@
     <programme channel="河北卫视" start="20260714233000 +0800" stop="20260714233300 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260714233300 +0800" stop="20260715000000 +0800">
+    <programme channel="河北卫视" start="20260714233300 +0800" stop="20260715010600 +0800">
         <title lang="zh">我们的日子</title>
     </programme>
     <channel id="江西卫视">
