@@ -55,7 +55,7 @@ async function getAndroidURL(userId, token, pid, rateType) {
     headers["appCode"] = "miguvideo_default_android"
   }
 
-  if (rateType != 2 && userId != "" && token != "") {
+  if (rateType != 2 && userId && token) {
     headers.UserId = userId
     headers.UserToken = token
   }

@@ -1,7 +1,7 @@
 // 用户id
-const userId = process.env.muserId || (() => { throw new Error("Environment variable muserId is required") })()
+const userId = process.env.muserId
 // 用户token 可以使用网页登录获取
-const token = process.env.mtoken || (() => { throw new Error("Environment variable mtoken is required") })()
+const token = process.env.mtoken
 // 本地运行端口号
 const port = process.env.mport || 1234
 // 公网/自定义访问地址
