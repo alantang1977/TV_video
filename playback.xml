@@ -100,13 +100,13 @@
         <title lang="zh">前情提要-藏锋-第17集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260828200600 +0800" stop="20260828205645 +0800">
-        <title lang="zh">藏锋17/23</title>
+        <title lang="zh">藏锋第17集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260828205645 +0800" stop="20260828210100 +0800">
         <title lang="zh">前情提要-藏锋-第18集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260828210100 +0800" stop="20260828215200 +0800">
-        <title lang="zh">藏锋18/23</title>
+        <title lang="zh">藏锋第18集</title>
     </programme>
     <programme channel="CCTV1综合" start="20260828215200 +0800" stop="20260828220000 +0800">
         <title lang="zh">三餐四季-宣传片</title>
@@ -211,7 +211,7 @@
         <title lang="zh">正点财经</title>
     </programme>
     <programme channel="CCTV2财经" start="20260828173200 +0800" stop="20260828175400 +0800">
-        <title lang="zh">2026精品财经纪录-炙味人间5</title>
+        <title lang="zh">2026精品财经纪录-大地餐桌6</title>
     </programme>
     <programme channel="CCTV2财经" start="20260828175400 +0800" stop="20260828183000 +0800">
         <title lang="zh">周末特供2026-上新吧福味4-36分版</title>
@@ -316,16 +316,13 @@
         <title lang="zh">开门大吉-2026-32</title>
     </programme>
     <programme channel="CCTV3综艺" start="20260828205315 +0800" stop="20260828220140 +0800">
-        <title lang="zh">新花路放—最美的心愿之旅-3</title>
+        <title lang="zh">沧海运河谣-4</title>
     </programme>
     <programme channel="CCTV3综艺" start="20260828220140 +0800" stop="20260828230825 +0800">
         <title lang="zh">综艺喜乐汇-2026-1103 宝贝第一 2</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20260828230825 +0800" stop="20260828235425 +0800">
-        <title lang="zh">综艺喜乐汇-2026-892 四喜28/36</title>
-    </programme>
-    <programme channel="CCTV3综艺" start="20260828235425 +0800" stop="20260828235900 +0800">
-        <title lang="zh">综艺喜乐汇-2026-893 四喜29/36</title>
+    <programme channel="CCTV3综艺" start="20260828230825 +0800" stop="20260828235900 +0800">
+        <title lang="zh">影视留声机-2025-78-经典电影欣赏《鸡毛信》</title>
     </programme>
     <channel id="CCTV4中文国际">
         <display-name lang="zh">CCTV4中文国际</display-name>
@@ -976,7 +973,7 @@
         <title lang="zh">寰宇视野2026-241</title>
     </programme>
     <programme channel="CCTV9纪录" start="20260828220430 +0800" stop="20260828230600 +0800">
-        <title lang="zh">故事中国2026-208</title>
+        <title lang="zh">故事中国2026-56</title>
     </programme>
     <programme channel="CCTV9纪录" start="20260828230600 +0800" stop="20260828232730 +0800">
         <title lang="zh">9视频2026-240</title>
@@ -1474,7 +1471,7 @@
         <title lang="zh">音乐公开课-2026-11</title>
     </programme>
     <programme channel="CCTV15音乐" start="20260828215700 +0800" stop="20260828225630 +0800">
-        <title lang="zh">CCTV音乐厅-2026-153-经典回响-古典名作系列音乐会（15）</title>
+        <title lang="zh">CCTV音乐厅-2026-118-巨匠之声·古典音乐大师系列音乐会（1）</title>
     </programme>
     <programme channel="CCTV15音乐" start="20260828225630 +0800" stop="20260828235900 +0800">
         <title lang="zh">精彩音乐汇-我的爱对你说-2026-291</title>
@@ -1555,7 +1552,7 @@
         <title lang="zh">南来北往第37集</title>
     </programme>
     <programme channel="CCTV17农业农村" start="20260828204600 +0800" stop="20260828214230 +0800">
-        <title lang="zh">乐游新乡村-2026-42-欢歌唱响“三月三”</title>
+        <title lang="zh">谁知盘中餐-2026-141-乡野寻鲜1</title>
     </programme>
     <programme channel="CCTV17农业农村" start="20260828214230 +0800" stop="20260828221100 +0800">
         <title lang="zh">三农群英汇-2026-281</title>
@@ -1564,7 +1561,7 @@
         <title lang="zh">谁知盘中餐-2026-148-乡野寻鲜8</title>
     </programme>
     <programme channel="CCTV17农业农村" start="20260828230300 +0800" stop="20260828235900 +0800">
-        <title lang="zh">田野欢歌-2026-27</title>
+        <title lang="zh">超级农人秀-丰收中国之沃野超有范儿-8</title>
     </programme>
     <channel id="CCTV4欧洲">
         <display-name lang="zh">CCTV4欧洲</display-name>
@@ -3880,7 +3877,7 @@
         <title lang="zh">江海潮生 第29集</title>
     </programme>
     <programme channel="江苏卫视" start="20260828214100 +0800" stop="20260828230000 +0800">
-        <title lang="zh">音乐缘计划2</title>
+        <title lang="zh">职来职往</title>
     </programme>
     <programme channel="江苏卫视" start="20260828230000 +0800" stop="20260828231500 +0800">
         <title lang="zh">晚间新闻</title>
@@ -4404,7 +4401,7 @@
     <programme channel="河北卫视" start="20260828234400 +0800" stop="20260828234700 +0800">
         <title lang="zh">宣传段</title>
     </programme>
-    <programme channel="河北卫视" start="20260828234700 +0800" stop="20260829000000 +0800">
+    <programme channel="河北卫视" start="20260828234700 +0800" stop="20260829003000 +0800">
         <title lang="zh">依依向北风</title>
     </programme>
     <channel id="江西卫视">
@@ -5142,7 +5139,7 @@
     <programme channel="东南卫视" start="20260828230700 +0800" stop="20260828232300 +0800">
         <title lang="zh">东南晚报</title>
     </programme>
-    <programme channel="东南卫视" start="20260828232300 +0800" stop="20260829000000 +0800">
+    <programme channel="东南卫视" start="20260828232300 +0800" stop="20260829020200 +0800">
         <title lang="zh">重播“闽超”第十二轮 福州VS龙岩</title>
     </programme>
     <channel id="海南卫视">
