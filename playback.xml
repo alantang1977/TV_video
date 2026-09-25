@@ -304,7 +304,7 @@
         <title lang="zh">越战越勇-2026-37</title>
     </programme>
     <programme channel="CCTV3综艺" start="20260925192520 +0800" stop="20260925200000 +0800">
-        <title lang="zh">2026我们的村节-3</title>
+        <title lang="zh">2026我们的村节-4</title>
     </programme>
     <programme channel="CCTV3综艺" start="20260925200000 +0800" stop="20260925203000 +0800">
         <title lang="zh">中央广播电视总台2026年中秋晚会-2</title>
@@ -1689,14 +1689,11 @@
     <programme channel="CCTV4美洲" start="20260925120000 +0800" stop="20260925130000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260925130000 +0800" stop="20260925133000 +0800">
+    <programme channel="CCTV4美洲" start="20260925130000 +0800" stop="20260925133710 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20260925133000 +0800" stop="20260925135700 +0800">
-        <title lang="zh">国家记忆-2026-106</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20260925135700 +0800" stop="20260925140000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-26</title>
+    <programme channel="CCTV4美洲" start="20260925133710 +0800" stop="20260925140000 +0800">
+        <title lang="zh">平凡匠心-2026-103</title>
     </programme>
     <programme channel="CCTV4美洲" start="20260925140000 +0800" stop="20260925143000 +0800">
         <title lang="zh">中国新闻</title>
