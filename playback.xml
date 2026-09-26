@@ -474,13 +474,13 @@
     <programme channel="CCTV5体育" start="20260926070000 +0800" stop="20260926080000 +0800">
         <title lang="zh">体坛晨报-亚运晨报</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260926080000 +0800" stop="20260926133000 +0800">
+    <programme channel="CCTV5体育" start="20260926080000 +0800" stop="20260926130300 +0800">
         <title lang="zh">2026年亚运会-赛事转播报道7-1</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260926133000 +0800" stop="20260926143000 +0800">
+    <programme channel="CCTV5体育" start="20260926130300 +0800" stop="20260926140400 +0800">
         <title lang="zh">体坛快讯-亚运最前沿</title>
     </programme>
-    <programme channel="CCTV5体育" start="20260926143000 +0800" stop="20260926213000 +0800">
+    <programme channel="CCTV5体育" start="20260926140400 +0800" stop="20260926213000 +0800">
         <title lang="zh">2026年亚运会-赛事转播报道7-2</title>
     </programme>
     <programme channel="CCTV5体育" start="20260926213000 +0800" stop="20260926223500 +0800">
