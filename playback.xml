@@ -456,14 +456,11 @@
     <programme channel="CCTV5体育" start="20261002111000 +0800" stop="20261002203000 +0800">
         <title lang="zh">2026年亚运会-赛事转播报道13-2</title>
     </programme>
-    <programme channel="CCTV5体育" start="20261002203000 +0800" stop="20261002223000 +0800">
+    <programme channel="CCTV5体育" start="20261002203000 +0800" stop="20261002234700 +0800">
         <title lang="zh">2026年中国网球公开赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20261002223000 +0800" stop="20261002233500 +0800">
+    <programme channel="CCTV5体育" start="20261002234700 +0800" stop="20261002235900 +0800">
         <title lang="zh">体育世界-全景亚运</title>
-    </programme>
-    <programme channel="CCTV5体育" start="20261002233500 +0800" stop="20261002235900 +0800">
-        <title lang="zh">实况录像-2026年亚运会 乒乓球女团决赛</title>
     </programme>
     <channel id="CCTV5+体育赛事">
         <display-name lang="zh">CCTV5+体育赛事</display-name>
