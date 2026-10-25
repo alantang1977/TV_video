@@ -2028,7 +2028,7 @@
     <programme channel="CGTN阿拉伯语" start="20261025230000 +0800" stop="20261025233000 +0800">
         <title lang="zh">动画公园</title>
     </programme>
-    <programme channel="CGTN阿拉伯语" start="20261025233000 +0800" stop="20261026001500 +0800">
+    <programme channel="CGTN阿拉伯语" start="20261025233000 +0800" stop="20261026000000 +0800">
         <title lang="zh">剧场</title>
     </programme>
     <channel id="CGTN西班牙语">
@@ -2265,7 +2265,7 @@
     <programme channel="CGTN法语" start="20261025230000 +0800" stop="20261025233000 +0800">
         <title lang="zh">五洲瞭望-2026-128</title>
     </programme>
-    <programme channel="CGTN法语" start="20261025233000 +0800" stop="20261026001500 +0800">
+    <programme channel="CGTN法语" start="20261025233000 +0800" stop="20261026000000 +0800">
         <title lang="zh">魅力东方-2026-298</title>
     </programme>
     <channel id="CGTN俄语">
@@ -10821,7 +10821,7 @@
     <programme channel="CETV1" start="20261025223500 +0800" stop="20261025232500 +0800">
         <title lang="zh">艺创之约:话剧-同学少年(下)</title>
     </programme>
-    <programme channel="CETV1" start="20261025232500 +0800" stop="20261026004000 +0800">
+    <programme channel="CETV1" start="20261025232500 +0800" stop="20261026000000 +0800">
         <title lang="zh">体育大思政课2(4)</title>
     </programme>
     <channel id="CETV2">
