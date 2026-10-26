@@ -1269,25 +1269,25 @@
     <programme channel="CCTV13新闻" start="20261026034000 +0800" stop="20261026040000 +0800">
         <title lang="zh">每周质量报告</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261026040000 +0800" stop="20261026041500 +0800">
+    <programme channel="CCTV13新闻" start="20261026040000 +0800" stop="20261026040300 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261026041500 +0800" stop="20261026050000 +0800">
-        <title lang="zh">世界周刊</title>
-    </programme>
-    <programme channel="CCTV13新闻" start="20261026050000 +0800" stop="20261026051200 +0800">
-        <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme channel="CCTV13新闻" start="20261026051200 +0800" stop="20261026060000 +0800">
+    <programme channel="CCTV13新闻" start="20261026040300 +0800" stop="20261026050000 +0800">
         <title lang="zh">面对面</title>
+    </programme>
+    <programme channel="CCTV13新闻" start="20261026050000 +0800" stop="20261026051500 +0800">
+        <title lang="zh">新闻直播间</title>
+    </programme>
+    <programme channel="CCTV13新闻" start="20261026051500 +0800" stop="20261026060000 +0800">
+        <title lang="zh">世界周刊</title>
     </programme>
     <programme channel="CCTV13新闻" start="20261026060000 +0800" stop="20261026090000 +0800">
         <title lang="zh">朝闻天下</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261026090000 +0800" stop="20261026091200 +0800">
+    <programme channel="CCTV13新闻" start="20261026090000 +0800" stop="20261026091400 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261026091200 +0800" stop="20261026100000 +0800">
+    <programme channel="CCTV13新闻" start="20261026091400 +0800" stop="20261026100000 +0800">
         <title lang="zh">世界周刊</title>
     </programme>
     <programme channel="CCTV13新闻" start="20261026100000 +0800" stop="20261026110000 +0800">
@@ -1305,11 +1305,8 @@
     <programme channel="CCTV13新闻" start="20261026130000 +0800" stop="20261026140000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20261026140000 +0800" stop="20261026141200 +0800">
+    <programme channel="CCTV13新闻" start="20261026140000 +0800" stop="20261026150000 +0800">
         <title lang="zh">新闻直播间</title>
-    </programme>
-    <programme channel="CCTV13新闻" start="20261026141200 +0800" stop="20261026150000 +0800">
-        <title lang="zh">面对面</title>
     </programme>
     <programme channel="CCTV13新闻" start="20261026150000 +0800" stop="20261026160000 +0800">
         <title lang="zh">新闻直播间</title>
