@@ -100,7 +100,7 @@
         <title lang="zh">前情提要-多喜一家人-第10集</title>
     </programme>
     <programme channel="CCTV1综合" start="20261123205925 +0800" stop="20261123215105 +0800">
-        <title lang="zh">多喜一家人10/34</title>
+        <title lang="zh">多喜一家人第10集</title>
     </programme>
     <programme channel="CCTV1综合" start="20261123215105 +0800" stop="20261123220000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
@@ -591,58 +591,61 @@
     <channel id="CCTV6电影">
         <display-name lang="zh">CCTV6电影</display-name>
     </channel>
-    <programme channel="CCTV6电影" start="20261123000000 +0800" stop="20261123004349 +0800">
+    <programme channel="CCTV6电影" start="20261123000000 +0800" stop="20261123004017 +0800">
         <title lang="zh">瓦尔特保卫萨拉热窝（下）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261123004349 +0800" stop="20261123021809 +0800">
+    <programme channel="CCTV6电影" start="20261123004017 +0800" stop="20261123021037 +0800">
         <title lang="zh">打过长江去</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261123021809 +0800" stop="20261123040613 +0800">
+    <programme channel="CCTV6电影" start="20261123021037 +0800" stop="20261123035841 +0800">
         <title lang="zh">金城档案</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261123040613 +0800" stop="20261123064453 +0800">
-        <title lang="zh">雪狼 (电视电影)</title>
+    <programme channel="CCTV6电影" start="20261123035841 +0800" stop="20261123052810 +0800">
+        <title lang="zh">雪狼</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261123064453 +0800" stop="20261123084244 +0800">
+    <programme channel="CCTV6电影" start="20261123052810 +0800" stop="20261123065808 +0800">
+        <title lang="zh">海下尖刀</title>
+    </programme>
+    <programme channel="CCTV6电影" start="20261123065808 +0800" stop="20261123085439 +0800">
         <title lang="zh">山河披锦绣</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261123084244 +0800" stop="20261123101310 +0800">
+    <programme channel="CCTV6电影" start="20261123085439 +0800" stop="20261123102610 +0800">
         <title lang="zh">少林童子功</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261123101310 +0800" stop="20261123115013 +0800">
+    <programme channel="CCTV6电影" start="20261123102610 +0800" stop="20261123120203 +0800">
         <title lang="zh">彭雪枫纵横江淮</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261123115013 +0800" stop="20261123115628 +0800">
+    <programme channel="CCTV6电影" start="20261123120203 +0800" stop="20261123120753 +0800">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261123115628 +0800" stop="20261123133715 +0800">
+    <programme channel="CCTV6电影" start="20261123120753 +0800" stop="20261123134615 +0800">
         <title lang="zh">红高粱</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261123133715 +0800" stop="20261123152416 +0800">
+    <programme channel="CCTV6电影" start="20261123134615 +0800" stop="20261123153246 +0800">
         <title lang="zh">醉侠苏乞儿</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261123152416 +0800" stop="20261123172009 +0800">
+    <programme channel="CCTV6电影" start="20261123153246 +0800" stop="20261123172609 +0800">
         <title lang="zh">白粉妹</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261123172009 +0800" stop="20261123193026 +0800">
+    <programme channel="CCTV6电影" start="20261123172609 +0800" stop="20261123193406 +0800">
         <title lang="zh">刀尖</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261123193026 +0800" stop="20261123220000 +0800">
+    <programme channel="CCTV6电影" start="20261123193406 +0800" stop="20261123220000 +0800">
         <title lang="zh">万里归途</title>
     </programme>
     <programme channel="CCTV6电影" start="20261123220000 +0800" stop="20261123221800 +0800">
         <title lang="zh">中国电影报道2026-327</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261123221800 +0800" stop="20261123222320 +0800">
+    <programme channel="CCTV6电影" start="20261123221800 +0800" stop="20261123222325 +0800">
         <title lang="zh">中国福利彩票阳光开奖2026-11-23</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261123222320 +0800" stop="20261123230000 +0800">
+    <programme channel="CCTV6电影" start="20261123222325 +0800" stop="20261123230002 +0800">
         <title lang="zh">怪兽卡车（上）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261123230000 +0800" stop="20261123230130 +0800">
+    <programme channel="CCTV6电影" start="20261123230002 +0800" stop="20261123230102 +0800">
         <title lang="zh">中国体育彩票阳光开奖2026-11-23</title>
     </programme>
-    <programme channel="CCTV6电影" start="20261123230130 +0800" stop="20261123235900 +0800">
+    <programme channel="CCTV6电影" start="20261123230102 +0800" stop="20261123235900 +0800">
         <title lang="zh">怪兽卡车（下）</title>
     </programme>
     <channel id="CCTV7国防军事">
@@ -850,13 +853,13 @@
         <title lang="zh">本集提要-两京十五日-第7集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261123193000 +0800" stop="20261123202540 +0800">
-        <title lang="zh">两京十五日7/26</title>
+        <title lang="zh">两京十五日第7集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261123202540 +0800" stop="20261123203040 +0800">
         <title lang="zh">本集提要-两京十五日-第8集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261123203040 +0800" stop="20261123212710 +0800">
-        <title lang="zh">两京十五日8/26</title>
+        <title lang="zh">两京十五日第8集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20261123212710 +0800" stop="20261123213210 +0800">
         <title lang="zh">本集提要-小城大事-第27集</title>
@@ -4107,7 +4110,7 @@
     <programme channel="辽宁卫视" start="20261123225200 +0800" stop="20261123233100 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
-    <programme channel="辽宁卫视" start="20261123233100 +0800" stop="20261124000000 +0800">
+    <programme channel="辽宁卫视" start="20261123233100 +0800" stop="20261124000300 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
     <channel id="河北卫视">
@@ -4248,7 +4251,7 @@
     <programme channel="河北卫视" start="20261123233400 +0800" stop="20261123235900 +0800">
         <title lang="zh">你好京津冀</title>
     </programme>
-    <programme channel="河北卫视" start="20261123235900 +0800" stop="20261124000000 +0800">
+    <programme channel="河北卫视" start="20261123235900 +0800" stop="20261124003900 +0800">
         <title lang="zh">宣传段</title>
     </programme>
     <channel id="江西卫视">
