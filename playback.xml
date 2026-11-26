@@ -219,14 +219,8 @@
     <programme channel="CCTV2财经" start="20261126183000 +0800" stop="20261126190000 +0800">
         <title lang="zh">回家吃饭-2026-240</title>
     </programme>
-    <programme channel="CCTV2财经" start="20261126190000 +0800" stop="20261126193000 +0800">
-        <title lang="zh">解码财经-2026-11-26</title>
-    </programme>
-    <programme channel="CCTV2财经" start="20261126193000 +0800" stop="20261126200000 +0800">
-        <title lang="zh">消费新主张</title>
-    </programme>
-    <programme channel="CCTV2财经" start="20261126200000 +0800" stop="20261126203000 +0800">
-        <title lang="zh">经济半小时</title>
+    <programme channel="CCTV2财经" start="20261126190000 +0800" stop="20261126203000 +0800">
+        <title lang="zh">APEC财经之夜</title>
     </programme>
     <programme channel="CCTV2财经" start="20261126203000 +0800" stop="20261126213000 +0800">
         <title lang="zh">经济信息联播</title>
@@ -235,7 +229,7 @@
         <title lang="zh">央视财经评论-2026-11-26</title>
     </programme>
     <programme channel="CCTV2财经" start="20261126220230 +0800" stop="20261126223000 +0800">
-        <title lang="zh">精品财经纪录-人类记忆中国的世界遗产4</title>
+        <title lang="zh">精品财经纪录-人类记忆中国的世界遗产3</title>
     </programme>
     <programme channel="CCTV2财经" start="20261126223000 +0800" stop="20261126232550 +0800">
         <title lang="zh">北纬三十度-5</title>
@@ -1473,10 +1467,10 @@
     <programme channel="CCTV15音乐" start="20261126193000 +0800" stop="20261126213000 +0800">
         <title lang="zh">第二届丝路之星国际音乐大赛-10</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20261126213000 +0800" stop="20261126225730 +0800">
-        <title lang="zh">中国音乐电视-2026-15-山河回响 声动音乐会（精编）</title>
+    <programme channel="CCTV15音乐" start="20261126213000 +0800" stop="20261126231730 +0800">
+        <title lang="zh">CMG金秋歌会（甘肃平凉）-1</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20261126225730 +0800" stop="20261126235900 +0800">
+    <programme channel="CCTV15音乐" start="20261126231730 +0800" stop="20261126235900 +0800">
         <title lang="zh">CCTV音乐厅-2026-212-纪念肖斯塔科维奇诞辰120周年音乐会</title>
     </programme>
     <channel id="CCTV17农业农村">
@@ -3966,7 +3960,7 @@
     <programme channel="广东卫视" start="20261126225800 +0800" stop="20261126234300 +0800">
         <title lang="zh">无间(12)</title>
     </programme>
-    <programme channel="广东卫视" start="20261126234300 +0800" stop="20261127000000 +0800">
+    <programme channel="广东卫视" start="20261126234300 +0800" stop="20261127001500 +0800">
         <title lang="zh">南粤4K画卷</title>
     </programme>
     <channel id="北京卫视">
@@ -4269,7 +4263,7 @@
     <programme channel="辽宁卫视" start="20261126233300 +0800" stop="20261126233900 +0800">
         <title lang="zh">带你游辽宁</title>
     </programme>
-    <programme channel="辽宁卫视" start="20261126233900 +0800" stop="20261127000000 +0800">
+    <programme channel="辽宁卫视" start="20261126233900 +0800" stop="20261127002500 +0800">
         <title lang="zh">欢乐点点</title>
     </programme>
     <channel id="河北卫视">
